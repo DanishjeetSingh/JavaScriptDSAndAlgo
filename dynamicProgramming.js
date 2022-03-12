@@ -22,5 +22,5 @@ function memoizedAddTo80(n){
     }
 }
 
-console.log(memoizedAddTo80(5));
-console.log(memoizedAddTo80(5));
+console.log(1, memoizedAddTo80(5));
+console.log(2, memoizedAddTo80(5));
